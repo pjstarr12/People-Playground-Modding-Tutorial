@@ -1,0 +1,17 @@
+{
+    "Name": "ExampleModName",
+    "Author": "ExampleAuthor",
+    "Description": "Example",
+    "ModVersion": "1.0",
+    "GameVersion": "1.14+",
+    "ThumbnailPath": "ExampleModIcon.png",
+    "EntryPoint": "Mod.Mod",
+    "Tags": [],
+    "Scripts": [
+      "main.cs",
+      "ExampleBombBehaviour.cs"
+    ],
+    "Active": true,
+    "UGCIdentity": null,
+    "CreatorUGCIdentity": null
+  }
